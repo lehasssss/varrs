@@ -1,0 +1,6 @@
+ result = num1 / num2
+    else:
+      label_result.config(text="Неверная операция!")
+      return
+
+    label_result.config(text=f"{num1} 
